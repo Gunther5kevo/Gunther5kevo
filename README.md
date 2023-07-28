@@ -1,4 +1,7 @@
 Hello! 👋 I'm excited to have you here on my GitHub profile. I'm Kevin Kipyego, and I primarily focus on JavaScript, with some foundational skills in Python and Java.
+socials
+email:Kipyegokevin82@gmail.com
+twitter:@iamkevin82
 
 👨‍💻 JavaScript Enthusiast:
 JavaScript is where my true passion lies. I thoroughly enjoy creating dynamic and interactive websites and web applications using this versatile language. From frontend development to server-side scripting with Node.js, I love exploring the endless possibilities that JavaScript offers.
